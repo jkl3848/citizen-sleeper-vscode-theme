@@ -1359,7 +1359,8 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#344752"
+        "foreground": "#344752",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1389,7 +1390,8 @@
     {
       "scope": "keyword.control",
       "settings": {
-        "foreground": "#969941"
+        "foreground": "#969941",
+        "fontStyle": "bold"
       }
     },
     {
@@ -1401,7 +1403,8 @@
     {
       "scope": "storage.type",
       "settings": {
-        "foreground": "#969941"
+        "foreground": "#969941",
+        "fontStyle": "bold"
       }
     },
     {
