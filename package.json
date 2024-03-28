@@ -1,0 +1,21 @@
+{
+  "name": "citizen-sleeper-theme",
+  "displayName": "citizen sleeper theme",
+  "description": "jl color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Citizen Sleeper",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Citizen Sleeper-color-theme.json"
+      }
+    ]
+  }
+}
