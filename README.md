@@ -1,4 +1,5 @@
 # citizen-sleeper-theme README
+A theme inspired by the game Citizen Sleeper by Jump Over The Age
 
 ## Installation
 
