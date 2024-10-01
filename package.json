@@ -2,7 +2,7 @@
   "name": "citizen-sleeper-theme",
   "displayName": "citizen sleeper theme",
   "description": "jl color theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.87.0"
   },
