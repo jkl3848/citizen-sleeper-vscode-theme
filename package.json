@@ -1,8 +1,19 @@
 {
   "name": "citizen-sleeper-theme",
-  "displayName": "citizen sleeper theme",
-  "description": "jl color theme",
+  "displayName": "Citizen Sleeper Theme",
+  "description": "A theme inspired by Citizen Sleeper by Jump Over The Age",
+  "publisher": "jkl3848",
   "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkl3848/citizen-sleeper-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/microsoft/vscode-wordcount/issues",
+    "email": "sean@contoso.com"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "homepage": "https://github.com/jkl3848/citizen-sleeper-vscode-theme/README.md",
   "engines": {
     "vscode": "^1.87.0"
   },
